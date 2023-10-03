@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @marcoluchi11
 - 👀 I’m passionate about Web Development, especializing in Front-end 
-- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on anything that gets me experience in the IT industry.
 - 📫 How to reach me - marcoaluchi@hotmail.com
 
